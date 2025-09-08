@@ -1,1 +1,1 @@
-# Setting-up-Splunk-SIEM-Attacking-and-Remediating-it
+# Splunk Lab
