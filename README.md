@@ -101,7 +101,7 @@ I joined target_PC to the domain and tinkered around with users, groups and perm
 
 ## Performing a Brute force attack on target_PC and reviewing events via Splunk
 
-I used crowbar to launch a brute force dictionary attack on target_PC from the Kali Linux machine. 
+I used Hydra to launch a brute force dictionary attack on target_PC from the Kali Linux machine. 
 I had enabled RDP on target_PC desktop-c87no7b beforehand so this attack would be feasable.
 <img width="1611" height="484" alt="image" src="https://github.com/user-attachments/assets/60e75c6a-0ca8-4013-90d4-4609cd71cafc" />
 
