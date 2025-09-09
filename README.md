@@ -54,7 +54,6 @@ Apply the changes: sudo netplan apply
 ## Install Splunk Enterprise:
 - Installed Splunk Enterprise on the Splunk server and configure it to start at boot.
 Oluwatosin_admin@oluwatosinsplunk:/opt/splunk/bin$ sudo ./splunk enable boot-start -user splunk
-<img width="1134" height="112" alt="image" src="https://github.com/user-attachments/assets/569cfac9-8b01-42fd-b41e-2be094fce832" />
 
 ## Setting Up Splunk Forwarder
 
