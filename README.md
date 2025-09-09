@@ -67,7 +67,7 @@ Installed Sysmon to enhance event logging capabilities.
 <img width="763" height="539" alt="image" src="https://github.com/user-attachments/assets/307ad734-9000-4781-aa65-275a6a0689cf" />
 
 
-##Configuring Inputs for Splunk Forwarder:
+## Configuring Inputs for Splunk Forwarder:
 
 Created an inputs.conf file in C:\Program Files\SplunkUniversalForwarder\etc\system\local on Domain controller server and target-PC, configuring settings as per.
 <img width="1666" height="869" alt="image" src="https://github.com/user-attachments/assets/bc20a268-2771-43fc-8b27-b6bbdead1188" />
