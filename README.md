@@ -38,12 +38,13 @@ This is by no means a comprehensive step-by-step of my process, but rather a few
 - Configuring Inputs for Splunk Forwarder
 - Restarting Splunk Forwarder Service
 - Connecting to Splunk Web Interface
-5. Setting up Active Directory and Provisioning Users
-6. Performing a Brute Force Attack on Target_PC and Reviewing Events via Splunk
-7. Installing Atomic Red Team, Performing a Test, and Reviewing Events in Splunk
+6. Setting up Active Directory and Provisioning Users
+7. Performing a Brute Force Attack on Target_PC and Reviewing Events via Splunk
+8. Installing Atomic Red Team, Performing a Test, and Reviewing Events in Splunk
 9. Conclusion
 
 # Setting up Splunk Server and Forwarder
+
 ## Setting Static IP Address and Default Route:
 - Configured a static IP address for the Splunk server and defined a default route with the gateway 192.168.100.11.
   sudo nano /etc/netplan/00-installer-config.yaml
