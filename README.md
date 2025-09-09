@@ -64,7 +64,6 @@ Splunk server as a receiving indexer. Applied Ubuntu splunk server Ip 192.168.10
 ## Installing Sysmon:
 Installed Sysmon to enhance event logging capabilities.
 
-<img width="833" height="280" alt="image" src="https://github.com/user-attachments/assets/da3514ee-1fbf-462d-b15b-1db8e12c97da" />
 <img width="763" height="539" alt="image" src="https://github.com/user-attachments/assets/307ad734-9000-4781-aa65-275a6a0689cf" />
 
 
