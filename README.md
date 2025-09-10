@@ -26,7 +26,6 @@ The goal was to:
 
 - Detect brute-force authentication attempts
 - Capture process and endpoint telemetry with Sysmon
-- Collect firewall traffic logs (FortiGate)
 - Simulate adversary behaviors using Atomic Red Team
 - Build Splunk dashboards + alerts for detection and investigation
 - 
